@@ -1,0 +1,15 @@
+{
+    "name": "klzchz/composer",
+    "description": "AUla de php 7",
+    "type": "project",
+    "authors":[
+    	{
+    		"name": "Lucas Andrade",
+    		"email": "lucascorporation@live.com"
+
+    	}
+    ],
+    "require": {
+    	"phpmailer/phpmailer": "~5.2"
+    }
+}
